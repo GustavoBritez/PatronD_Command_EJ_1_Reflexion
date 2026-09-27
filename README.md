@@ -1,5 +1,3 @@
-# PatronD_Command_EJ_1_Reflexion
-
 # 💳 Sistema Bancario - Patrón Command & System.Reflection
 
 [![.NET 8.0](https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
@@ -140,3 +138,16 @@ classDiagram
 ```
 
 ---
+
+## 🚀 Cómo Ejecutar la Solución
+
+1. **Requisitos:** Tener instalado el SDK de **.NET 8.0** o superior y Visual Studio 2022.
+2. **Abrir la Solución:** Abrir el archivo `Command.sln`.
+3. **Compilar desde Terminal:**
+   ```bash
+   dotnet build
+   ```
+4. **Ejecutar la Aplicación:**
+   ```bash
+   dotnet run --project Command.csproj
+   ```
